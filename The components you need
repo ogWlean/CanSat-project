@@ -1,5 +1,5 @@
 ESP32-S3-N16P8 with a camera module.
-Ebyte Lora-E32-433T30D
+Two Ebyte LoRa-E32-433T30D
 BMP280 pressure sensor
 MPU6050 gyroscope
 DHT11 temperature and relative humidity sensor
@@ -7,3 +7,4 @@ Passive buzzer
 2S BMS (you will connect two batteries in series to get 7.2V)
 2S 4A Type-C charger module (you will connect P+ and P- pins of BMS)
 LM2596 DC-to-DC buck converter (you gotta convert from 7.2V to 5V)
+Arduino UNO or NANO, as a receiver.
